@@ -177,10 +177,10 @@ textarea{
         height: auto;
     }
 
-    .header {
+    header {
         display: flex;
         text-align: center;
-        margin: 20px;
+        margin: 15px;
         justify-content: center;
     }
 
@@ -188,7 +188,7 @@ textarea{
         display: none;
     }
 
-    .header a {
+    header a {
     
         font-size: 18px;
     }
